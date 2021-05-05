@@ -1,4 +1,4 @@
-# Python-Machine-Learning-Churn
+# Python-ChurnPrediction
 
 
 ## Project Description
